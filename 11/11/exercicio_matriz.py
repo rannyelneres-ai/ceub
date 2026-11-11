@@ -42,10 +42,10 @@ print(f"Média aritmética: {media:.2f}")
 print(f"Valores maiores que 20: {maiores_que_vinte}")
 print("="*35)
 
-matriz[1][3] = 13.0
+matriz[1][3] = 111.0
 
 print("\n" + "="*35)
-print("   MATRIZ APÓS ALTERAÇÃO [1][3]=13   ")
+print("  MATRIZ APÓS ALTERAÇÃO [1][3]=111  ")
 print("="*35)
 
 for l in range(2):
